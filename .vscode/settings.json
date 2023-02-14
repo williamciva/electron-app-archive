@@ -1,0 +1,11 @@
+{
+    "cSpell.language": "pr-BR,pt-BR,pt",
+    "cSpell.words": [
+        "theme"
+    ],
+    "code-runner.executorMap": {
+        "typescript": "npm run start:dev",
+        "javascript": "npm run start",
+    },
+    "code-runner.cwd": "src",
+}
