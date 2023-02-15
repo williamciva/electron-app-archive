@@ -10,7 +10,7 @@ const createWindow = () => {
           },
     })
 
-    win.loadFile( path.join(__dirname, '../pages/index.html') )
+    win.loadURL('http://localhost:3000')
 }
 
 app.whenReady().then(() => {
